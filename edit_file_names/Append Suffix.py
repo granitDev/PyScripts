@@ -10,6 +10,7 @@ helpText = """
 --------------------------------------------------------
 Enter a complete file path into the directory of which
 you want the contents to be appended with a suffix.
+
 You will then be asked for the suffix text to append.
 Suffixes are appended before the extension.
 

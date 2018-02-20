@@ -10,6 +10,7 @@ helpText = """
 -------------------------------------------------------
 Enter a complete file path into the directory of which
 you want the contents to be renamed in 'title' format.
+
 File extensions will be ignored.
 
 Title File Names is not recursive.
